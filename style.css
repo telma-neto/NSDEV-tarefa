@@ -1,0 +1,31 @@
+*{ 
+    padding:0%;
+    Margin:0%;
+} 
+
+.quadro,.quadro1,.quadro2{
+    background-color: red;
+    Border:3px solid black;
+    padding:80px;
+   }
+   
+   .linha1{
+    Display: Flex;
+    Justify-content:center;
+    margin-top:10px ;
+    margin-bottom: 60px;
+   }
+
+   .linha2{
+    Display: Flex;
+    Justify-content: Space-evenly;
+    margin-top:60px ;
+    margin-bottom: 60px;
+   }
+
+   .linha3{
+    Display: Flex;
+    Justify-content: end;
+    margin-top:70px ;
+    margin-bottom:10px;
+   }
